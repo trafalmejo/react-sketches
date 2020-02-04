@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-sketches/dices/static/css/main.7b0563db.chunk.css",
+    "main.js": "/react-sketches/dices/static/js/main.7e287b72.chunk.js",
+    "main.js.map": "/react-sketches/dices/static/js/main.7e287b72.chunk.js.map",
+    "runtime-main.js": "/react-sketches/dices/static/js/runtime-main.21ade782.js",
+    "runtime-main.js.map": "/react-sketches/dices/static/js/runtime-main.21ade782.js.map",
+    "static/css/2.67123b20.chunk.css": "/react-sketches/dices/static/css/2.67123b20.chunk.css",
+    "static/js/2.126c02fb.chunk.js": "/react-sketches/dices/static/js/2.126c02fb.chunk.js",
+    "static/js/2.126c02fb.chunk.js.map": "/react-sketches/dices/static/js/2.126c02fb.chunk.js.map",
+    "index.html": "/react-sketches/dices/index.html",
+    "precache-manifest.e8490a57cdf2156fd3b239cf573efd88.js": "/react-sketches/dices/precache-manifest.e8490a57cdf2156fd3b239cf573efd88.js",
+    "service-worker.js": "/react-sketches/dices/service-worker.js",
+    "static/css/2.67123b20.chunk.css.map": "/react-sketches/dices/static/css/2.67123b20.chunk.css.map",
+    "static/css/main.7b0563db.chunk.css.map": "/react-sketches/dices/static/css/main.7b0563db.chunk.css.map",
+    "static/js/2.126c02fb.chunk.js.LICENSE.txt": "/react-sketches/dices/static/js/2.126c02fb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21ade782.js",
+    "static/css/2.67123b20.chunk.css",
+    "static/js/2.126c02fb.chunk.js",
+    "static/css/main.7b0563db.chunk.css",
+    "static/js/main.7e287b72.chunk.js"
+  ]
+}
